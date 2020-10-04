@@ -1,3 +1,4 @@
+Design strategy for bots to play soccer!
 ● Download Visual Studio 2012/13. 
 ● Follow “Setting up the project “ in website for setting up the
 environment to code in Visual Studio. 
